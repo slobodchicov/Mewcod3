@@ -1,5 +1,5 @@
 #profile-title: MewCode
-#profile-update-interval: 2
+#profile-update-interval: 1
 #support-url: https://t.me/naisonji
 #announce: MewCode фри
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
