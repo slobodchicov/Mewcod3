@@ -3,4 +3,4 @@
 #support-url: https://t.me/naisonji
 #announce: MewCode фри
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-
+vless://I_Love_🇵🇸_sshOcean_880e@hk1.startvless.site:443?encryption=none&security=tls&sni=hk1.startvless.site&type=grpc&serviceName=vless-grpc&mode=gun#sshocean-mewcodekkkkkkk-gRPC
