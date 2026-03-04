@@ -3,4 +3,4 @@
 #support-url: https://t.me/naisonji
 #announce: MewCode фри
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@95.216.246.128:44443?security=reality&encryption=none&pbk=coB3nNI3VLh5YBj5H3oZq5u5k_7j3h5F0h5j3h5F0h5&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&sid=4daa022e84f8edf2#Finland-2
+
