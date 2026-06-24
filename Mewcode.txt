@@ -1,5 +1,5 @@
 {
-  "remarks": "🪙LTE+ AVTO🪙",
+  "remarks": "🇫🇲🪙LTE+ AVTO🪙",
   "meta": {
     "serverDescription": "🎋By t.me/MewCodeVless🎋"
   },
@@ -1050,4 +1050,61 @@
         "security": "reality",
         "realitySettings": {
           "serverName": "grif.dns-crypto-yandex.com",
-          "publicKey": "Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCa
+          "publicKey": "Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ",
+          "shortId": "0e830794d04398",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "t.me/mewcodevless30",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "krio.mysaol.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "eb528c71-441a-4430-867d-ab63d301d4ee",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+          "serviceName": "grpc",
+          "authority": "",
+          "mode": false
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "krio.mysaol.com",
+          "publicKey": "Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ",
+          "shortId": "0e830794d04398",
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      }
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    }
+  ]
+}
