@@ -1,8 +1,3 @@
-#profile-title: base64:UEVSRUMgU0hPUCBWUE7inIXwn5SS8J+RpA==
-#announce: base64:VWxhbnlqeSBhZHkgOiBQRVJFQ1ZQTlNIT1BTClVMQU5ZSlkgVFJBRklLIDoxLjUwR0IgMTUwR0IKTW9obGV0aSBndXRhcm1hZ3kgOiAyMDI2LjMwLm1heQpIYWxhbCBhbWF0bHkgdnBuIGFsbWFrIHVjaW4gQGhhbGFscGVyZWM=
-#support-url: https://t.me/thefullvpn1
-#profile-web-page-url: https://watbod.ry
-#profile-update-interval: 1
 
 {
   "dns": {
